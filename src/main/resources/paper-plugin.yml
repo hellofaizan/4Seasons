@@ -1,0 +1,8 @@
+name: 4Seasons
+version: '1.0-SNAPSHOT'
+main: me.hellofaizan.minecraft.fourseasons
+api-version: '1.21'
+load: STARTUP
+authors: [ HelloFaizan ]
+description: Four Seasons in Minecraft
+website: https://hellofaizan.me
